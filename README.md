@@ -76,7 +76,7 @@ namespace surendar
 ```
 
  ## Output:
- ![output](https://user-images.githubusercontent.com/75235747/167237510-c0f8b5be-1861-499f-a9b0-2aa311e19d5e.JPG)
- 
+ ![Screenshot (2)](https://user-images.githubusercontent.com/75235759/175276104-21a7a254-b86b-4efe-97b9-5c120293b52e.png)
+
  ## Result:
  Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
